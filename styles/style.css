@@ -11,6 +11,18 @@
   background-position: bottom right, left;
   padding-top: 5px;
 }
+.btn{
+  background: #FFF8F3;
+  padding: 18px 35px;
+  font-weight: 700;
+  font-size: 20px;
+  border: 0;
+  height: 64px;
+  border-radius: 5px;
+  margin-left: 30px;
+  border: 1px solid #FD6E0A;
+  color: #fd6e0a;
+}
 .nav-title {
   font-weight: 800;
   font-size: 45px;
@@ -41,6 +53,7 @@ nav li {
   border: 0;
   padding: 18px 35px;
 }
+
 
 /* banner */
 .banner {
